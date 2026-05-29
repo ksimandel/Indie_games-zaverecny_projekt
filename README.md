@@ -1,7 +1,7 @@
 # SWA ZÁVĚREČNÝ PROJEKT
 
 ## Téma: Indie Games - Indieler
-
+Webová stránka, která ti ukáže základní informace o známých indie hrách.
 ## Stránky:
 ### Home:
 - Obsahuje sekci: O nás, Kontaktujte nás
